@@ -1,0 +1,32 @@
+body, html{height: 100%;}
+.genius{
+	background: #723d9a;
+	overflow: hidden;
+}
+.genius a{ 
+	float: left;
+	display: block;
+	color: gold;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: franklin gothic;
+}
+
+
+.genius a:hover{
+	background-color: teal;
+	color: #b5a90f;
+} 
+.genius a.active{
+	background-color:pink;
+	color: gold;
+}
+
+div.banner
+.footer a{
+	color: solid black;
+	background-color: solid pink;
+	height: 5%;
+} 
